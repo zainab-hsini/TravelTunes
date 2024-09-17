@@ -30,6 +30,12 @@
 
 ## How to use the program
 - Click on the "Open in Colab" tab at the top of the program in the "TravelTunes.ipnyb" file.
+- Get the API keys:
+  - Go to Spotify Developer Dashboard.
+  - Log in and create a new application.
+  - Copy your Client ID and Client Secret from the app you created.
+  - Go to TravelTime API Developer Portal.
+  - Sign up for an ccpunt and get your credentials.
 - Run the first and second code cell.
 - Follow the description displayed: enter the coordinates of your location first, latitude then longitude, then those of your destination.
 - Run the third code cell
